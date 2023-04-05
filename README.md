@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.github.com/diyashrestha1999">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/leetcode-100000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="GitHub Badge"/>
   </a>
 </div>
 <h1>
@@ -26,7 +26,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Frontend Development.
 
-- :zap: In my free time, I solve problems and learn more about new technology stacks.
+- :zap: In my free time, I solve problems in Leetcode and learn more about new technology stacks.
 
 ---
 
