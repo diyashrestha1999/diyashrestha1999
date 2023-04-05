@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.github.com/diyashrestha1999">
+    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://leetcode.com/diya966_/">
     <img src="https://img.shields.io/badge/leetcode-100000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="GitHub Badge"/>
   </a>
 </div>
