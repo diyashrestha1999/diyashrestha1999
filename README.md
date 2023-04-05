@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/fullscreen"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhlZTdjYjhkOGNhMGE5OWNmZjgwYTdkMTFlNjcxZjAzZjMxMTBhNyZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif"/>
 
 
 <div id="badges">
