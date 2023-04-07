@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img width="200" height="200" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif"/>
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/diya-shrestha-04a3b91a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -50,11 +48,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>
 
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diyashrestha1999&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyashrestha1999&layout=compact&theme=vision-friendly-dark)](https://github.com/diyashrestha1999)
