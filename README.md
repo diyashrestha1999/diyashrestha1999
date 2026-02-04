@@ -23,7 +23,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
-- :telescope: I’m working as a Software Engineer and contributing to Frontend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to Frontend for building web applications.
 
 - :seedling: Exploring Frontend Development.
 
